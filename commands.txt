@@ -8,3 +8,4 @@ git add .
 git commit -m "first commit"
 git status
 git status -s
+git diff --staged
