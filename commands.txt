@@ -6,3 +6,5 @@ git help config
 git add 'foo.txt'
 git add .
 git commit -m "first commit"
+git status
+git status -s
