@@ -3,3 +3,6 @@ git help
 git config
 git config --list
 git help config
+git add 'foo.txt'
+git add .
+git commit -m "first commit"
